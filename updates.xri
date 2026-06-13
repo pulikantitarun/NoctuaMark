@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xri version="1.0">
+   <description>
+      NoctuaMark Repository - PixInsight Watermark &amp; Annotation Tool by Tarun Pulikanti
+   </description>
+   <platform os="all" arch="noarch" version="1.8.6:1.9.9">
+      <package type="script" 
+               title="NoctuaMark Utility Script" 
+               fileName="NoctuaMark-1.0.0.zip" 
+               releaseDate="20260614" 
+               version="1.0.0" 
+               sha1="5bc92c34ccb1a910ff4d72bfcf0fa111015bdad4">
+         <description>
+            NoctuaMark automates signature, FITS/XISF metadata overlays, PNG logos, and draggable feature annotations with real-time live preview.
+         </description>
+      </package>
+   </platform>
+</xri>
